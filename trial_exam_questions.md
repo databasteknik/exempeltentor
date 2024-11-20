@@ -120,9 +120,6 @@ a) Vad för problem kan uppstå med strukturen ovan vid användning?
 b) Hur skulle du förbättra strukturen?
 
 ### 2
-Certainly! Here's an example of an exam question related to normalization in database design:
-
----
 
 
 Studera följande tabell:
